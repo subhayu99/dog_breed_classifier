@@ -22,7 +22,7 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 	
 	```	
 		git clone https://github.com/subhayu99/dog_breed_classifier.git
-             cd dog_breed_classifier
+            cd dog_breed_classifier
 	```
     
 __NOTE:__ if you are using the Udacity workspace, you *DO NOT* need to re-download the datasets in steps 2 and 3 - they can be found in the `/data` folder as noted within the workspace Jupyter notebook.
